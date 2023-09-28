@@ -97,9 +97,7 @@ python train.py
     1. Due to image quality, it is impossible to find actual weight and calories.
     2. It's challenging to get the right fruit-camera angle.
     3. Pixel changes in relation to lighting conditions
-    
-1. Calculate the number of calories in each type of fruit.
-    2. Reduce the estimation inaccuracy for calories
+  
     
 
 
