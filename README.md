@@ -15,9 +15,8 @@
 
 Please Note that I have not used the data that was provided to me DL_1 problem statement. I have rather used the following pre-trained data. The only reason was that I have tries a lot to preprocess the coma-separated src link but had some unsolvable errors. 
 
-For this project, I used two datasets:
-1. [FOODD](https://drive.google.com/drive/folders/1rmVS_n6P1859trFxKhY7iHVywjTIRYwn?usp=sharing)
-2. ECUST Food Dataset (ECUSTFD)
+For this project, I used the following datasets:
+1. ECUST Food Dataset (ECUSTFD)
 
 
   
