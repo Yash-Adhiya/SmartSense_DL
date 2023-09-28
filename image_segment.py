@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 import os
 
+# Please note that the for this code, I have taken help from the internet and other repo as this is a standard segmentation code. Images used here are self-downloaded ones. 
+
 def getAreaOfFood(img1):
     data=os.path.join(os.getcwd(),"images")
     if os.path.exists(data):
@@ -116,7 +118,7 @@ def getAreaOfFood(img1):
 
 
 if __name__ == '__main__':
-    img1 = cv2.imread(r"C:\Users\piya\Desktop\model2\Orange\2.jpg")
+    img1 = cv2.imread(r"C:\Users\YashAdhiya\Desktop\model2\Orange\2.jpg")
     img = cv2.resize(img1,(1000,1000))
     area, bin_fruit, img_fruit, skin_area, fruit_contour, pix_to_cm_multiplier = getAreaOfFood(img)
     cv2.imshow('img',img_fruit)
