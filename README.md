@@ -83,12 +83,12 @@ python train.py
  | Fruits  | Calorie | Estimated Calories|
  | ------- | ------- | -----------------| 
  | Apple   |  53.96  |   40.42          |
- | Banana  |  170.88 |   188.81         |  
- | Carrot  |  31.16  |   26.28          |
- | Cucumber|  29.44  |   37.65          |
- | Onion   |  44.88  |   37.13          |  
- | Orange  |  69.09  |   71.92          |
- | Tomato  |  17.46  |   13.82          |
+ | Burger  |  170.88 |   188.81         |  
+ | Pizza  |  31.16  |   26.28          |
+ | Cake|  29.44  |   37.65          |
+ | Noodles   |  44.88  |   37.13          |  
+ | Dosa  |  69.09  |   71.92          |
+ | Biryani  |  17.46  |   13.82          |
 
  These are the random images tried out and they worked really well on the vegetables and fruits dataset. However I may not be able to serve the purpuse of the given dataset in the prob statment but using the pre-trained data, I got really good results
 
