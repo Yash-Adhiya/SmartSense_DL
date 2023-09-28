@@ -59,7 +59,7 @@ Food Recognition deals with the recognition of food items when given an image. F
 
 
 ### Testing
-Google colab link for testing [click here](https://colab.research.google.com/drive/1dRVXXVfX5vQ0Re1kW_yX4zwJBNzSezoa?usp=sharing)
+Google colab link for testing [click here]([https://colab.research.google.com/drive/1dRVXXVfX5vQ0Re1kW_yX4zwJBNzSezoa?usp=sharing](https://www.linkedin.com/in/ritu-jaiswal-4a0b911a2/))
 for testing our model run
 ```
 python demo.py
